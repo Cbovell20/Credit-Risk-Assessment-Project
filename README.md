@@ -1,3 +1,5 @@
 # Optimization-Pricing-Project
 
-The goal of this project is to develop a machine learning model that can predict credit risk for borrowers based on their financial and demographic data. The model will be built using historical data on loan applications and their outcomes, and will be evaluated on its ability to correctly predict the risk of default for new loan applications
+In this project, we'll be working with a dataset of historical sales data for a fictional online retailer, and our goal will be to use data analysis and machine learning to optimize the pricing strategy for the retailer's products.
+
+The kaggle dataset is from: ' 
